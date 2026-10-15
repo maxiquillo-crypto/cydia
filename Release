@@ -1,25 +1,25 @@
 Architectures: iphoneos-arm iphoneos-arm64
 Codename: ios
 Components: main
-Date: Thu, 15 Oct 2026 11:04:59 +0000
+Date: Thu, 15 Oct 2026 11:14:06 +0000
 Description: Tailscale para iOS con jailbreak
 Label: Tailscale iOS
 Origin: Andres
 Suite: stable
 Version: 1.0
 MD5Sum:
- c1420b3035bb218d64529cc9f85de396             1366 Packages
- 4685c401d84afbbd5ff04797726bd399              770 Packages.bz2
- 7d8eb5a618aa6df26ce67594ac3fd342              671 Packages.gz
+ 0fa045c098325a800c428223823b7262             1370 Packages
+ 25bb87cd3469bcdb836c76abad12167c              776 Packages.bz2
+ 4d00879b429a0ff35bd236dcbb544c77              678 Packages.gz
 SHA1:
- fa2c7fc7b224161b4618c8eba7890961d839e02e             1366 Packages
- 3d6901e90c1e50229000d1559e7740dcc027348f              770 Packages.bz2
- 921f2ed42830cb5c60ebbbfc9c99846d52411fcc              671 Packages.gz
+ aa3eb031c9816fc12785bb2b249f108fdbfa3e82             1370 Packages
+ 4a35edca2c43b8e44ad16d50a76ff30a808f1db5              776 Packages.bz2
+ d94c9837e8471bed34435ad51643960d9d0eec53              678 Packages.gz
 SHA256:
- 70424b9a0972059a79fa7e9119fd7faab4d0fc5dda2ab6845adb245e79cffbb2             1366 Packages
- 6e3a90adac593ff35b04287dec8f4f71da0834647d3b1069ee1f39be191e8fee              770 Packages.bz2
- 25ef7b2fe0caf805f6cded082d10bb05cdae7b4ddbd3aae8089b0765742cc293              671 Packages.gz
+ bd89672cdafff822f87959559729fa8063afdf0ef9c3ee147022e8b5ede356dd             1370 Packages
+ 2544e45d275033aef465328733a88e8a30d1aa70406b8fb69dff3a0d9b860a9f              776 Packages.bz2
+ 609c523912d84fc22185f5202e684f2de741dfc8fcd72946a1740294f9ebb58c              678 Packages.gz
 SHA512:
- 01951aa1d61eb943b75daf0d31049f8a6a31e623349489a5d589ee68f3b8588f4db400999c67d2f1fd3183ff8e45ae0fe3a1a301972b73764a273b360043da4b             1366 Packages
- 98804f5dd6d2f8ed9981cb49366df25f3fa26e6b9b1117057aab44e6d92e3a7c46a0069e7a8854dd0a0802d4ad99ec69c761b77876dbb9238a198da3e21833e8              770 Packages.bz2
- 50f4cc60476f4026b10ef6d58fdb1bc818fcc1bbca7bac98652b92622bea5fcfda4261a472f7d3c31bd279469004d210c3679e548582eee761ea2fb924976535              671 Packages.gz
+ 38f8a878c9762e7cfb53580f621ef8434ff8fb6629d8e6cd401407217ad11c953022f45f179629d4d492acd361b57f4bd8cb0df8ed292e1b4aaea963b34916f5             1370 Packages
+ 22a4b0ee58a3f2b7f0d87f74a2146ce70b3616afec9a0b7e63bc8ceaf8fecda16427da1778514685360d3465511d31b7408930f7b4ba7e7bfbc7ba22a3ce7e87              776 Packages.bz2
+ 5f92859717a9588ac2c74522c20391c5ef4194e367626e1e8f7e34a8dcd78ff2feecbf6ecdfc63df8b7eff3444a3fb103d895fb782a53c272acaa4fa9decbced              678 Packages.gz

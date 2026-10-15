@@ -1,32 +1,32 @@
 Package: com.andres.tailscale
 Architecture: iphoneos-arm
-Version: 1.104.1
+Version: 1.104.1-2
 Section: Networking
 Maintainer: Andres <maxiquillo@gmail.com>
 Depends: firmware (>= 15.0)
-Filename: com.andres.tailscale_1.104.1_iphoneos-arm.deb
-Size: 15701474
-MD5sum: 7cc61d843b4af0e4ebef981dfda034fe
-SHA1: 2037919281ab091690ae2463bb9ba53666eb2819
-SHA256: 8ceba8a6a4042338ee026107e3f0715675a2b5465b3a0387b8c1cd81c13d668a
-SHA512: f53b9eb8431574c51f04b0a0ec886aa5249b0cf94a4a863f7e47e770fff1c8eb3fdbe205bc6671622e0bbcc86bba95c371578ab74a493bf3f7cc964a9e1f392b
+Filename: com.andres.tailscale_1.104.1-2_iphoneos-arm.deb
+Size: 15728756
+MD5sum: a19e1ef461cf6612c547b46917c682b7
+SHA1: 2625eb817eb1108fb21c72b03b56692300f1a348
+SHA256: 85275447d7879e78a6268408e4074a74572b6382e117aa12954ab11ca8e46652
+SHA512: ffc72860e70ff1b5dd16a9f1218c1658e940330f2a9726060e8ef7f8e3fa33b326d32daab1892948617f04d5a743ccb6fe5cd84d7ee123a80fd13616ee57152e
 Homepage: https://tailscale.com
-Description: Tailscale VPN daemon (tailscaled) for jailbroken iOS, userspace networking by default
+Description: Tailscale VPN para iOS con jailbreak: daemon + app con interruptor (modo userspace)
 Name: Tailscale
 
 Package: com.andres.tailscale
 Architecture: iphoneos-arm64
-Version: 1.104.1
+Version: 1.104.1-2
 Section: Networking
 Maintainer: Andres <maxiquillo@gmail.com>
 Depends: firmware (>= 15.0)
-Filename: com.andres.tailscale_1.104.1_iphoneos-arm64.deb
-Size: 15701498
-MD5sum: e8ecad370f0e4c5ac8ca8f60408fe95f
-SHA1: 01cfcaa70442371ca2438fc1f7b5d49b0f395439
-SHA256: 5bde22eb8e70ef400c87aa39f5d5a9b3ddcfaefd01bd60c96e8af87eecb24088
-SHA512: 8813d1ec9ef1f9869ce43cc206d2ffd6314d8d7219e7e998a6818895e3baf364e57ff43cbea8ddc66075c1c2f0ebe0d874f26461dff2ede50820a99127d25b0f
+Filename: com.andres.tailscale_1.104.1-2_iphoneos-arm64.deb
+Size: 15728938
+MD5sum: 34fdface538b63f6edeb2fe0b1c61275
+SHA1: 4dc3b09756d3eb72a6348a7c25810f2a0330d68a
+SHA256: 00c4d5405c250b69cb7d6e540ba0aa5f41ef7279d1fc174617f40fb079b3db74
+SHA512: 8ff668723474e7fdaa56ee79413448ed8b7557d7dd16905e1679154ce2d987df5c740207ec7e3392e94041aaf60c84eddf5f8c6cd68fc15dd9b659d53c326b53
 Homepage: https://tailscale.com
-Description: Tailscale VPN daemon (tailscaled) for jailbroken iOS, userspace networking by default
+Description: Tailscale VPN para iOS con jailbreak: daemon + app con interruptor (modo userspace)
 Name: Tailscale
 
