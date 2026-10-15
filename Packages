@@ -1,0 +1,34 @@
+Package: com.andres.tailscale
+Name: Tailscale
+Architecture: iphoneos-arm
+Version: 1.104.1
+Section: Networking
+Maintainer: Andres <maxiquillo@gmail.com>
+Depends: firmware (>= 15.0)
+Filename: ./com.andres.tailscale_1.104.1_iphoneos-arm.deb
+Size: 15701482
+MD5sum: 8238089fb418e63224f0762c932b9dd1
+SHA1: 6b74717c1208679d1808d1fea226ab8f6ab86bc7
+SHA256: 0e4eef5d61309bbbd7d170e75932b1514113fcce850f6906d6f3b68c759e1002
+SHA512: 9f88a859c280ed6af47f247134cb559ae7fd75adce9863e0d057308d0f8af609297b0e214982ed30135c464648c49c6e68a739082a3fc5d34abe30ec5249e652
+Homepage: https://tailscale.com
+Description: Tailscale VPN daemon (tailscaled) for jailbroken iOS, userspace networking by default
+Name: Tailscale
+
+Package: com.andres.tailscale
+Name: Tailscale
+Architecture: iphoneos-arm64
+Version: 1.104.1
+Section: Networking
+Maintainer: Andres <maxiquillo@gmail.com>
+Depends: firmware (>= 15.0)
+Filename: ./com.andres.tailscale_1.104.1_iphoneos-arm64.deb
+Size: 15701500
+MD5sum: c6f7764bcf01c6588fe30e02654cb99e
+SHA1: 7db24f4a74adfc4ce658f91074ad3d2fd1a69655
+SHA256: 4fb40a063a3708c74183be4ace0c7190f2aefc23c0d1c2cc5e68b9e2e5a14157
+SHA512: 4157db66b7408ee3ac05892a68d9f23b775670bcf84009cacadaf4820abef1d49b9398eda671c7ccb9808aee560b59911dc0f02d16253e8f72845478a7687302
+Homepage: https://tailscale.com
+Description: Tailscale VPN daemon (tailscaled) for jailbroken iOS, userspace networking by default
+Name: Tailscale
+
